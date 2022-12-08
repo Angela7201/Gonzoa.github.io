@@ -10,3 +10,6 @@ Ganyu was born in Liyue, one of the most powerful cities in Teyvat. As a young g
 How did ganyu get so powerful?
 
 Ganyu’s power comes from her strong connection to the Hydro element. She is able to manipulate Hydro energy and use it to devastating effect, either by firing off powerful elemental arrows or summoning Frostflake Guardians to fight on her behalf. Her Elemental Skill, Celestial Shower, allows her to fire a barrage of elemental arrows at her enemies, dealing Hydro damage and inflicting the Wet status effect. Ganyu has also trained tirelessly to hone her archery skills, and her precision and accuracy are unmatched.
+
+
+![IMG_0653](https://user-images.githubusercontent.com/113639823/206498301-0614c96e-a91d-4e69-bb12-09d2671d2f60.JPG)
