@@ -2,7 +2,7 @@
 
 
 
-Ganyu is a new Hydro character in Genshin Impact. She is a 5-star Cryo archer from Liyue who serves as the loyal secretary of the Liyue Qixing, the council that governs the city. She is a mysterious individual who is described as an "ethereal beauty" and is known for her elegance and poise. Ganyu is an expert archer and is capable of manipulating the Hydro element to great effect. Her signature ability is the Celestial Shower, which launches a barrage of elemental arrows at her enemies, dealing Hydro damage and inflicting the Wet status effect. Additionally, Ganyu can also summon a powerful Frostflake Guardians to fight on her behalf.
+Ganyu is a Hydro character in Genshin Impact. She is a 5-star Cryo archer from Liyue who serves as the loyal secretary of the Liyue Qixing, the council that governs the city. She is a mysterious individual who is described as an "ethereal beauty" and is known for her elegance and poise. Ganyu is an expert archer and is capable of manipulating the Hydro element to great effect. Her signature ability is the Celestial Shower, which launches a barrage of elemental arrows at her enemies, dealing Hydro damage and inflicting the Wet status effect. Additionally, Ganyu can also summon a powerful Frostflake Guardians to fight on her behalf.
 
 What is Ganyu's backstory?
 
@@ -24,7 +24,7 @@ What does Ganyu Stats look like?
 Ganyu has a base Attack of 48, a base HP of 786, and a base Defense of 22. Her Elemental Mastery is at 53, and her Physical Damage Bonus is at 15%. She has an Energy Recharge of 24% and an Elemental Bonus of 24%. Her Anemo Resistance is at 0% and her Cryo Resistance is at 25%. Finally, her CRIT Rate is at 5.6%.
 
 
-![IMG_0655 2](https://user-images.githubusercontent.com/113639823/206561970-34e520df-6cad-42a9-93fb-47bce5e21502.JPG)
 
+![IMG_0656](https://user-images.githubusercontent.com/113639823/206562186-2453b40d-8b9a-4191-bbd4-6fce7f4c5925.JPG)
 
 
