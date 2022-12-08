@@ -1,5 +1,7 @@
 # Ganyu
 
+[Home](https://angela7201.github.io/Gonzaleza.github.io/)     [Klee](https://angela7201.github.io/-Gonzala3.github.io/)  [Mia](https://angela7201.github.io/Gonzaleza3.github.io/)
+
 
 Element: Hydro
 Rank: 1
